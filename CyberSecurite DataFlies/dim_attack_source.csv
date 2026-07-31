@@ -1,0 +1,9 @@
+SourceKey,Country,Region,ThreatGroup,IsStateSponsored
+1,Russia,Eastern Europe,APT28,Yes
+2,China,Asia Pacific,APT41,Yes
+3,North Korea,Asia Pacific,Lazarus,Yes
+4,Brazil,South America,Independent,No
+5,Iran,Middle East,APT33,Yes
+6,Unknown,Unknown,Unattributed,Unknown
+7,Nigeria,West Africa,BEC Group,No
+8,Romania,Eastern Europe,Independent,No

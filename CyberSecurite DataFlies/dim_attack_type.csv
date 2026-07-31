@@ -1,0 +1,11 @@
+AttackTypeKey,AttackType,Category,RiskLevel
+1,Phishing,Social Engineering,High
+2,Malware,Malicious Software,Critical
+3,Ransomware,Malicious Software,Critical
+4,DDoS,Network Attack,High
+5,Insider Threat,Internal,Critical
+6,SQL Injection,Application Attack,High
+7,Credential Stuffing,Identity Attack,High
+8,Zero-Day Exploit,Vulnerability Exploit,Critical
+9,Brute Force,Identity Attack,Medium
+10,Data Exfiltration,Internal,Critical

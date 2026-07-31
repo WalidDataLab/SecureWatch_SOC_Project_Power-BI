@@ -1,0 +1,5 @@
+SeverityKey,Severity,SeverityOrder,SeverityColor
+1,Critical,1,#ef4444
+2,High,2,#f97316
+3,Medium,3,#eab308
+4,Low,4,#22c55e
