@@ -2,7 +2,7 @@
 
 Tableau de bord Power BI dédié au suivi des performances d'un Security Operations Center (SOC) : incidents de sécurité, fuites de données, temps de réponse, disponibilité du firewall et conformité des correctifs.
 
-![Dashboard Preview](images/page1_dashboard_background.png)
+![Dashboard Preview](images/P1.PNG)
 
 ---
 
